@@ -4,7 +4,7 @@
 ## 1. [jetson_stats](https://github.com/rbonghi/jetson_stats) 
 install: ```sudo -H pip3 install jetson-stats```
 
-use: ```sudo jtop```
+usage: ```sudo jtop```
 
 ```
 (env) rainer@rbnano1:~$ jetson_release
