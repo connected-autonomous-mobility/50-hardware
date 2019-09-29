@@ -39,7 +39,7 @@ To set it back to 10 Watt mode:
 ## 4. inference samples
 installation: ```https://thenewstack.io/tutorial-configure-nvidia-jetson-nano-as-an-ai-testbed/```
 
-using
+testing
 ```
 cd ~/projects/jetson-inference/build/aarch64/bin
 rainer@rbnano1:~/projects/jetson-inference/build/aarch64/bin$ ./detectnet-camera
