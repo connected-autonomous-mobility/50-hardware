@@ -65,6 +65,7 @@ Please not that you need to set the following parameters in the file ```myconfig
 CACHE_IMAGES = False
 BATCH_SIZE = 16
 ```
+Activate ```jetson_clocks```
 Some screenshots
 ![](https://github.com/connected-autonomous-mobility/50-hardware/blob/master/images/training_on_jetson_nano.png)
 ![](https://github.com/connected-autonomous-mobility/50-hardware/blob/master/images/training_on_jetson_number.png)
