@@ -1,7 +1,8 @@
 # JETSON NANO
 [fact sheet](https://elinux.org/Jetson_Nano)
 
-## 1. jetson tools
+## 1. [jetson_stats](https://github.com/rbonghi/jetson_stats) 
+install: ```sudo -H pip install jetson-stats```
 
 ## 2. power management
 [power management](https://www.jetsonhacks.com/2019/04/10/jetson-nano-use-more-power)
