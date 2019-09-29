@@ -86,3 +86,5 @@ Some screenshots
 ![](https://github.com/connected-autonomous-mobility/50-hardware/blob/master/images/training_on_jetson_number.png)
 ![](https://github.com/connected-autonomous-mobility/50-hardware/blob/master/images/training_on_jetson_nano_time.png)
 ![](https://github.com/connected-autonomous-mobility/50-hardware/blob/master/images/training_on_jetson_nano_model_loss.png)
+
+10126 in 46min
