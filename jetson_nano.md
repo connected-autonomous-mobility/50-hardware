@@ -69,10 +69,9 @@ The maximum number of images to train locally using command
 (env) rainer@rbnano1:~/mycar$ 
 time python ~/mycar/manage.py train --tub ~/mycar/data/lg_data/hive_imu_fast_racing --model ./models/xxx.h5
 ```
-was 9400??? 
-of dataset
-```hive_imu_fastracing???```
-and took ??? minutes. Please not that you need to set the following parameters in the file ```myconfig.py``` and set MAX power:
+was 9325 using dataset
+```~/mycar/data/lg_data/hive_imu_fast_racing```
+and took ca. 32 minutes. Please not that you need to set the following parameters in the file ```myconfig.py``` and set MAX power:
 ```
 CACHE_IMAGES = False
 BATCH_SIZE = 16
