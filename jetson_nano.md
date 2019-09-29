@@ -91,7 +91,7 @@ more results
 
 |images | min   | epochs  | remarks     | dataset               |
 |-------|-------|---------|-------------|-----------------------|
-|10126 | 46 min |         |             | hive_imu_fast_racing_2|
-|12032 | 25 min | 16      |             | sim_warehouse_manual  |
-| 9120 | 33 min | 19      | crop_top_50 | athena_rainer_bosch   |
+|10126 | 46     |         |             | hive_imu_fast_racing_2|
+|12032 | 25     | 16      |             | sim_warehouse_manual  |
+| 9120 | 33     | 19      | crop_top_50 | athena_rainer_bosch   |
 
