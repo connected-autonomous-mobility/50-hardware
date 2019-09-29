@@ -87,6 +87,9 @@ Some screenshots
 ![](https://github.com/connected-autonomous-mobility/50-hardware/blob/master/images/training_on_jetson_nano_time.png)
 ![](https://github.com/connected-autonomous-mobility/50-hardware/blob/master/images/training_on_jetson_nano_model_loss.png)
 
-10126 in 46min (hive_imu_fast_racing_2)
-12032 in 25min/16epochs (sim_warehouse_manual)
-9120 in x min/x epochs, crop_top_50 (athena_rainer_bosch)
+more results
+
+|images | min   | epochs. | remarks | dataset |
+|10126 | 46 min |         | |(hive_imu_fast_racing_2)|
+|12032 | 25 min | 16epochs | | (sim_warehouse_manual)|
+| 9120 | 33 min | 19       | crop_top_50 |(athena_rainer_bosch)|
