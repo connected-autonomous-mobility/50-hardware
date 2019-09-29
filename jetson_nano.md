@@ -70,7 +70,7 @@ The maximum number of images I was able to train locally using command
 time python ~/mycar/manage.py train --tub ~/mycar/data/lg_data/hive_imu_fast_racing \ 
                                     --model ./models/xxx.h5
 ```
-was 9325 using dataset of Tawn Kramer
+was 9325 using dataset
 
 ```~/mycar/data/lg_data/hive_imu_fast_racing```
 
