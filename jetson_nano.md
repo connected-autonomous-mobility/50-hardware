@@ -37,7 +37,7 @@ To set it back to 10 Watt mode:
 ```sudo jetson_clocks --show```
 
 ## 4. inference samples
-[installation: ](https://thenewstack.io/tutorial-configure-nvidia-jetson-nano-as-an-ai-testbed/)
+[installation](https://thenewstack.io/tutorial-configure-nvidia-jetson-nano-as-an-ai-testbed/)
 
 testing
 ```
