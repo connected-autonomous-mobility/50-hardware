@@ -1,5 +1,5 @@
 # JETSON NANO
-
+[fact sheet](https://elinux.org/Jetson_Nano)
 
 ## 1. jetson tools
 
