@@ -74,7 +74,7 @@ was 9325 using [dataset](https://github.com/connected-autonomous-mobility/20-dat
 
 ```~/mycar/data/lg_data/hive_imu_fast_racing```
 
-out of Tawn Kramers dsataset collection and took ca. 32 minutes. 
+out of Tawn Kramers dataset collection and took ca. 32 minutes. 
 
 Please not that you need to set the following parameters in the file ```myconfig.py``` and set MAX power:
 ```
