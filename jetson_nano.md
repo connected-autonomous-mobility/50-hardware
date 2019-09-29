@@ -62,7 +62,7 @@ rainer@rbnano1:~/projects/jetson-inference/build/aarch64/bin$ ./detectnet-camera
 ```
 
 ## 6. training on Jetson Nano 
-[see post of diyrobocar slack channel](https://donkeycar.slack.com/archives/C4HR56WN6/p1569174142082900)
+[see post at diyrobocar slack channel](https://donkeycar.slack.com/archives/C4HR56WN6/p1569174142082900)
 
 The maximum number of images to train locally was 9400??? 
 of dataset
