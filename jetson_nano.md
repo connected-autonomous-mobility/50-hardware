@@ -70,11 +70,11 @@ The maximum number of images I was able to train locally using command
 time python ~/mycar/manage.py train --tub ~/mycar/data/lg_data/hive_imu_fast_racing \ 
                                     --model ./models/xxx.h5
 ```
-was 9325 using dataset
+was 9325 using [dataset](https://github.com/connected-autonomous-mobility/20-data)
 
 ```~/mycar/data/lg_data/hive_imu_fast_racing```
 
-and took ca. 32 minutes. 
+out of Tawn Kramers dsataset collection and took ca. 32 minutes. 
 
 Please not that you need to set the following parameters in the file ```myconfig.py``` and set MAX power:
 ```
