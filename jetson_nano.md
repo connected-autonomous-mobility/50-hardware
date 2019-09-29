@@ -1,7 +1,9 @@
-JETSON NANO
+# JETSON NANO
 
 
-## 1. power management
+## 1. jetson tools
+
+## 2. power management
 [power management](https://www.jetsonhacks.com/2019/04/10/jetson-nano-use-more-power)
 
 check mode:
@@ -13,3 +15,5 @@ To set the mode to 5 Watt mode:
 To set it back to 10 Watt mode:
 ```$ sudo nvpmodel -m 0```
 
+## 3. performance management
+```sudo jetson_clocks --show```
