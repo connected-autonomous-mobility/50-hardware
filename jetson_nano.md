@@ -60,3 +60,14 @@ rainer@rbnano1:~/projects/jetson-inference/build/aarch64/bin$ ./detectnet-camera
 ./tub_69_19-06-15: 6841
 ./tub_9_19-03-09: 22117
 ```
+
+## 6. local training on Jetson Nano
+
+The maximum number of images to train locally was 9400??? and took ??? minutes.
+Please not that you need to set the following parameters in the file ```myconfig.py``` and set MAX power:
+```
+CACHE_IMAGES = False
+BATCH_SIZE = 16
+```
+BATCH_SIZE = 16
+dataset: hive_imu_fastracing???
