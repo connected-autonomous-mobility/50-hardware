@@ -64,7 +64,12 @@ rainer@rbnano1:~/projects/jetson-inference/build/aarch64/bin$ ./detectnet-camera
 ## 6. training on Jetson Nano 
 [see post at diyrobocar slack channel](https://donkeycar.slack.com/archives/C4HR56WN6/p1569174142082900)
 
-The maximum number of images to train locally was 9400??? 
+The maximum number of images to train locally using command
+```
+(env) rainer@rbnano1:~/mycar$ 
+time python ~/mycar/manage.py train --tub ~/mycar/data/lg_data/hive_imu_fast_racing --model ./models/xxx.h5
+```
+was 9400??? 
 of dataset
 ```hive_imu_fastracing???```
 and took ??? minutes. Please not that you need to set the following parameters in the file ```myconfig.py``` and set MAX power:
