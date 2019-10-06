@@ -45,7 +45,14 @@ cd ~/projects/jetson-inference/build/aarch64/bin
 rainer@rbnano1:~/projects/jetson-inference/build/aarch64/bin$ ./detectnet-camera
 ```
 
-## 5. training on Jetson Nano 
+## 5. bluetooth
+```
+sudo apt-get install jstest-gtk
+jstest-gtk
+```
+
+
+## 6. training on Jetson Nano 
 [for details please see post at diyrobocar slack channel](https://donkeycar.slack.com/archives/C4HR56WN6/p1569174142082900)
 
 The maximum number of images I was able to train locally using command
