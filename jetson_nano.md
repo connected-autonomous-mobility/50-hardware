@@ -67,6 +67,12 @@ was 9325 using [dataset](https://github.com/connected-autonomous-mobility/20-dat
 
 out of Tawn Kramers dataset collection and took approx. 32 minutes. 
 
+## 20.10.2019
+```
+time python ~/d2/manage.py train --tub ~/d2/data/lg_data/hive_imu_fast_racing --model ./models/xxx.h5
+```
+
+
 Please not that you need to set the following parameters in the file ```myconfig.py``` and set MAX power:
 ```
 CACHE_IMAGES = False
