@@ -1,6 +1,6 @@
 # Compact Donkey Car
 
-THIS IS WORK IN PROGRESS
+![](images/icc_overview.png)
 
 ## Vehicle Chassis - 4WD RC Smart Auto Chassis for Arduino
 
