@@ -52,6 +52,13 @@ The Raspberry PI is powered from the main battery of the vehicle. To bring the 8
 
 ![](images/icc_usb_voltage_converter.jpg)
 
+### Actuator Controlling
+
+For controlling the actuators (servo and ESC) accurately I recommend a PWM-chip with a resolution of 12 bit. The 12 bit resolution allows a wide set of servo angles and a very precise control of the ESCs. For generating PWM signals a _PCA9685_ chip is used. There are many vendors of _PCA9685_ boards that can be attached to the RaspberryPI. Howevery, I recommend using a _Servo Hat_ from _adafruit_ that features a very good design and is very stable on powering servos. The _Servo Hat_ is available at [Reichelt](https://www.reichelt.de/raspberry-pi-servo-hat-16-kanal-pwm-pca9685-rpi-servo-hat-p235533.html?&trstct=pos_0).
+
+![](images/icc_servo_hat.png)
+
+
 ## Assembly
 
 ## Cabling
