@@ -1,3 +1,4 @@
+```
 (env2) rainer@rbnano1:~/projects$ uvcdynctrl -f -d video1
 [libwebcam] Invalid V4L2 control type encountered: ctrl_id = 0x009A0001, name = 'Camera Controls', type = 6
 [libwebcam] Invalid or unsupported V4L2 control encountered: ctrl_id = 0x009A0001, name = 'Camera Controls'
@@ -123,3 +124,4 @@ Pixel format: MJPG (Motion-JPEG; MIME type: image/jpeg)
     Frame intervals: 1/30, 1/24, 1/20, 1/15, 1/10, 2/15, 1/5
   Frame size: 1920x1080
     Frame intervals: 1/30, 1/24, 1/20, 1/15, 1/10, 2/15, 1/5
+```
