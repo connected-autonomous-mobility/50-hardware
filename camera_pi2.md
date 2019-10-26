@@ -1,3 +1,4 @@
+```
 (env2) rainer@rbnano1:~/projects$ uvcdynctrl -f -d video0
 [libwebcam] Invalid V4L2 control type encountered: ctrl_id = 0x009A0001, name = 'Camera Controls', type = 6
 [libwebcam] Invalid or unsupported V4L2 control encountered: ctrl_id = 0x009A0001, name = 'Camera Controls'
@@ -32,3 +33,4 @@ Pixel format: RG10 (10-bit Bayer RGRG/GBGB)
     Frame rates: 60
   Frame size: 1280x720
     Frame rates: 60
+```
