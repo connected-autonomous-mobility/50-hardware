@@ -87,8 +87,11 @@ To finish the vehicle, you need some cables and plugs:
 * [Tamiya battery coupling](https://www.reichelt.de/tamiya-coupling-for-power-pack-tam-bu-p28047.html?r=1) to access the main battery
 * [two 3.4mm bullet connectors](https://hobbyking.com/en_us/polymax-3-5mm-gold-connectors-10-pairs-20pc.html) to connect the ESC to the motor
 * [heat shrink tube set](https://www.reichelt.de/heat-shrink-tube-set-50-pieces-assorted-colours-delock-86279-p167392.html?GROUPID=7812&START=0&OFFSET=16&SID=95XZT1TqwQATYAACNM8dMd6a825e01c051ded2d9a6299196e3b89&LANGUAGE=EN&&r=1) for isolation
-* [High quality silicon covered cables](https://hobbyking.com/en_us/turnigy-high-quality-8awg-silicone-wire-1m-black.html) for building the power distribution.
+* [High quality silicon covered cables](https://hobbyking.com/en_us/turnigy-high-quality-18awg-silicone-wire-1m-black.html) for building the power distribution.
 
 ## Wiring
 
-....
+For the wiring, we extend the wires of the ESC to power the servo from the ESC BEC (Battery Eliminator Circuit) directly.
+Here is the complete wiring diagram:
+
+![](images/icc_wireplan.png)
