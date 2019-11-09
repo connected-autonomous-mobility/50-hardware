@@ -55,6 +55,9 @@ jstest-gtk
 ## 6. training on Jetson Nano 
 [for details please see post at diyrobocar slack channel](https://donkeycar.slack.com/archives/C4HR56WN6/p1569174142082900)
 
+### Hint: drive in chunks of 5 minutes and train approx. 10K images ###
+
+
 The maximum number of images I was able to train locally using command
 ```
 (env) rainer@rbnano1:~/mycar$ 
