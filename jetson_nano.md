@@ -97,3 +97,6 @@ more results
 
 links
 [jetson-inference](https://github.com/dusty-nv/jetson-inference)
+
+## 7. Qt5 installation
+[guide](https://devtalk.nvidia.com/default/topic/1056075/jetson-nano-and-qt5/)
