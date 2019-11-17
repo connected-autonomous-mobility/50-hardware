@@ -1,4 +1,6 @@
-# Hardware Setup: "Valley Crawler"
+# Build Hardware
+
+## Valley Crawler
 
 ![Valley Crawler](https://github.com/connected-autonomous-mobility/50-hardware/blob/master/images/A2F3A68F-C832-466F-A556-0007B86D8731.jpeg)
 
@@ -7,6 +9,11 @@
 
 | Part Description                                                                    | Link                                                                                  | Approximate Cost |
 |-------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------|------------------|
+
+| Jetson Nano | [Amazon](https://www.amazon.de/nVidia-945134500000000-Jetson-Developer-Kit/dp/B07PZHBDKT/ref=sr_1_6?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=jetson+nano&qid=1573986517&sr=8-6) | 140€ |
+
+
+
 | Magnet Car or alternative                                                                        | [Blue](https://www.amazon.com/gp/product/9269803775/?tag=donkeycar-20), [Red](http://amzn.to/2EIC1CF)                                         | $92              |
 | M2x6 screws (4)                                                                     | [Zinc](https://www.amazon.com/uxcell-Stainless-Phillips-Tapping-Screws/dp/B01KXTSW6Q?tag=donkeycar-20)                                          | $3.50 &ast;          |
 | M3x10 screws (8)                                                                  | [Black Oxide](https://www.amazon.com/Screws-Mushroom-Phillips-Self-Tapping-Electronic/dp/B07NQCG6JP?tag=donkeycar-20)                                          | $7.89 &ast;          |
