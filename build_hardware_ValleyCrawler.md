@@ -9,7 +9,7 @@
 
 | Part Description                                                                    | Link                                                                                  | Approximate Cost |
 |-------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------|------------------|
-| Traxxas Rustler 2WD | [amazon.de]() 
+| Traxxas TRX37054-1 - Rustler XL-5 RTR Stadium Truck 2WD 1:10 incl. 12V charging unit | [amazon.de]() currently not available | 230€ |
 | Jetson Nano | [amazon.de](https://www.amazon.de/nVidia-945134500000000-Jetson-Developer-Kit/dp/B07PZHBDKT/ref=sr_1_6?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=jetson+nano&qid=1573986517&sr=8-6) | 140€ |
 
 
