@@ -10,6 +10,7 @@
 | Part Description                                                                    | Link                                                                                  | Approximate Cost |
 |-------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------|------------------|
 | Traxxas TRX37054-1 - Rustler XL-5 RTR Stadium Truck 2WD 1:10 incl. 12V charging unit | [amazon.de]() currently not available | 230€ |
+| Traxxas Charging Adapter | [amazon.de](https://www.amazon.de/Traxxas-TRAXXAS-NETZTEIL-ADAPTER/dp/B016KPP2YM/ref=sr_1_7?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=traxxas+ladeger%C3%A4t&qid=1573987038&sr=8-7) | 32€ |
 | Jetson Nano | [amazon.de](https://www.amazon.de/nVidia-945134500000000-Jetson-Developer-Kit/dp/B07PZHBDKT/ref=sr_1_6?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=jetson+nano&qid=1573986517&sr=8-6) | 140€ |
 
 
