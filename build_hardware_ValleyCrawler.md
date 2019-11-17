@@ -13,6 +13,7 @@
 | Traxxas Charging Adapter | [amazon.de](https://www.amazon.de/Traxxas-TRAXXAS-NETZTEIL-ADAPTER/dp/B016KPP2YM/ref=sr_1_7?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=traxxas+ladeger%C3%A4t&qid=1573987038&sr=8-7) | 32€ |
 | Traxxas RPM81162 Wide Front Bumber | [amazon.de](https://www.amazon.de/RPM81162-Front-Bumper-Traxxas-Rustler-Stampede-Bandit-Nitro/dp/B0006O7RR4/ref=pd_sbs_21_1/260-2635513-6298865?_encoding=UTF8&pd_rd_i=B0006O7RR4&pd_rd_r=2f7c1f3b-ea75-4da5-a60f-188f2b8e9e4e&pd_rd_w=ONjK1&pd_rd_wg=GB0BY&pf_rd_p=184816e4-edb5-4587-8faf-776e0027d8d1&pf_rd_r=KAMTWYSKBTYAKFQ5DK7T&psc=1&refRID=KAMTWYSKBTYAKFQ5DK7T) | 14€ |
 | Jetson Nano | [amazon.de](https://www.amazon.de/nVidia-945134500000000-Jetson-Developer-Kit/dp/B07PZHBDKT/ref=sr_1_6?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=jetson+nano&qid=1573986517&sr=8-6) | 140€ |
+| Waveshare IMX219-200 Camera | [amazon.de](https://www.amazon.de/IMX219-200-Camera-Developer-8-megapixel-Resolution/dp/B07T7H3PJH/ref=sr_1_fkmr0_1?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=waveshare+imx219-200&qid=1573987377&s=toys&sr=8-1-fkmr0) | 36€ |
 
 
 
