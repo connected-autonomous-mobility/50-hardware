@@ -106,3 +106,10 @@ links
 
 ## 8. Display X remotely
 [guide](https://www.techotopia.com/index.php/Displaying_Ubuntu_Linux_Applications_Remotely_(X11_Forwarding))
+```
+/etc/ssh/ssh_config:
+X11Forward yes
+ 
+ssh -X user@hostname
+ 
+```
