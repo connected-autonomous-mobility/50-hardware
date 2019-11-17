@@ -111,5 +111,6 @@ links
 X11Forward yes
  
 ssh -X user@hostname
- 
 ```
+## 9. Remote Jupyter Notebook
+[guide](https://jupyter-notebook.readthedocs.io/en/stable/public_server.html)
