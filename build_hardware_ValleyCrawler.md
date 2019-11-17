@@ -22,9 +22,5 @@
 |11| Powerbank 5000 mAh, 2.1 A | [amazon.de](https://www.amazon.de/TONV-Handyakku-Pack-Steckdose-Notfall-Telefon-Stromsicherung-Ausg%C3%A4ngen-Schwarz/dp/B07MV4577N/ref=sr_1_5?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=tonv+slim+power+bank+5000mAh&qid=1573988734&sr=8-5) | 16 |
 |12| Nintendo Wii Nintendo RVL-CNT-01-UC | [amazon.de](https://www.amazon.de/Wii-U-Pro-Controller-schwarz/dp/B009ACALCQ/ref=sxin_2_af-peu-1_349810d35f2998197c5123d103c91064feb0d3a6?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=1H1VZLWCJUVAU&keywords=wii+u+pro+controller&pd_rd_i=B009ACALCQ&pd_rd_r=7ecad3d0-3a2a-4bbe-adbc-0f76c9367bcf&pd_rd_w=QecK0&pd_rd_wg=2C61F&pf_rd_p=6b8c361c-5751-4327-8e7f-43dd5a766b4c&pf_rd_r=0AF0DJ24DXDQJJK3WSHH&qid=1573989145&sprefix=wii+u+pro%2Caps%2C185) try to buy a used cheaper one as I did for 25€ | 120 |  
 |13| Option: 6 DOF IMU Sensor | [amazon.de](https://www.amazon.de/Paradisetronic-com-3-Achsen-Gyroskop-3-Achsen-Accelerometer-Beschleunigungssensor-Neigungssensor-Blau/dp/B01F11WXN4/ref=sr_1_2?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=imu&qid=1573988490&sr=8-2) | 6 |
-|| Parts from amazon.com |||
-|14| M2x6 screws (4)                                                                     | [Zinc](https://www.amazon.com/uxcell-Stainless-Phillips-Tapping-Screws/dp/B01KXTSW6Q?tag=donkeycar-20)                                          | $3.50 &ast;          |
-|15| M3x10 screws (8)                                                                  | [Black Oxide](https://www.amazon.com/Screws-Mushroom-Phillips-Self-Tapping-Electronic/dp/B07NQCG6JP?tag=donkeycar-20)                                          | $7.89 &ast;          |
-(https://www.amazon.com/ELEMENT-Element14-Raspberry-Pi-Motherboard/dp/B07BDR5PDW?tag=donkeycar-20)                                          | $38              |
-|16| Female to Female Jumper Wire                                                        | [amazon.com/gp/product/B010L30SE8](https://www.amazon.com/gp/product/B010L30SE8?tag=donkeycar-20)                                          | $7 &ast;             |
+|14| Screws, Jumper Wires | Go to local meetup and ask for spare ones | |
 
