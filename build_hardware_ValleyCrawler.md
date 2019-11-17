@@ -19,7 +19,7 @@
 |8| ScanDisk Ultra SD card 64 GB | [amazon.de](https://www.amazon.de/SanDisk-SDSQUAR-064G-GN6MA-microSDXC-Speicherkarte-Adapter/dp/B073JYVKNX/ref=sr_1_3?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=1C926FXY09CL&keywords=64+gb+sd+micro&qid=1573987541&sprefix=64+gb+sd%2Caps%2C180&sr=8-3) | 11 |
 |9| Adafruit 16-Channel PWM / Servo HAT for Raspberry Pi - Mini Kit [ADA2327] | [amazon.de](https://www.amazon.de/Adafruit-16-Channel-PWM-Servo-Raspberry/dp/B00SI1SPHS/ref=sr_1_2?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=adafruit+16+channel+pwm&qid=1573987675&sr=8-2) | 28 |
 |10| Waveshare IMX219-200 Camera | [amazon.de](https://www.amazon.de/IMX219-200-Camera-Developer-8-megapixel-Resolution/dp/B07T7H3PJH/ref=sr_1_fkmr0_1?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=waveshare+imx219-200&qid=1573987377&s=toys&sr=8-1-fkmr0) | 36 |
-
+|11| Option: 6 DOF IMU Sensor | [amazon.de](https://www.amazon.de/Paradisetronic-com-3-Achsen-Gyroskop-3-Achsen-Accelerometer-Beschleunigungssensor-Neigungssensor-Blau/dp/B01F11WXN4/ref=sr_1_2?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=imu&qid=1573988490&sr=8-2) | 6 |
 
 
 | Magnet Car or alternative                                                                        | [Blue](https://www.amazon.com/gp/product/9269803775/?tag=donkeycar-20), [Red](http://amzn.to/2EIC1CF)                                         | $92              |
