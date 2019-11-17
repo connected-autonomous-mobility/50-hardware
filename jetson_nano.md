@@ -103,3 +103,6 @@ links
 
 ## 7. Qt5 installation
 [guide](https://devtalk.nvidia.com/default/topic/1056075/jetson-nano-and-qt5/)
+
+## 8. Display X remotely
+[guide](https://www.techotopia.com/index.php/Displaying_Ubuntu_Linux_Applications_Remotely_(X11_Forwarding))
