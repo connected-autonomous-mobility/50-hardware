@@ -10,7 +10,8 @@ board = cv2.aruco.CharucoBoard_create(7, 7, 0.25375/7, .018, dictionary)
 object_points = []
 image_points = []
 
-for jpg in os.listdir("."):
+for jpg in os.listdir("./images_calibration"):
+    print(jpg)
     if not jpg.endswith(".jpg"):
         continue
     if "undistort" in jpg:

@@ -2,8 +2,8 @@ import os
 import numpy as np
 import cv2
 
-camera_matrix = np.load("camera_matrix.npy")
-dist_coeffs = np.load("dist_coeffs.npy")
+camera_matrix = np.load("camera_cal/camera_matrix.npy")
+dist_coeffs = np.load("camera_cal/dist_coeffs.npy")
 
 new_camera_matrix = np.copy(camera_matrix)
 new_camera_matrix[:2, :2] /= 2.
