@@ -11,4 +11,4 @@ Following guids are provided
 
 ## [nano hardware setup](jetson_nano.md)
 
-## [nano hardware setup](jetson_nano.md)
+## [fisheye camera undistortion](https://github.com/connected-autonomous-mobility/50-hardware/blob/master/camera_pi2.md)
