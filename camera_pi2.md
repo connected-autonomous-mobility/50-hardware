@@ -38,4 +38,7 @@ Pixel format: RG10 (10-bit Bayer RGRG/GBGB)
 ```
 ## Undistort
 
-[fish-eye undistortion](https://medium.com/@kennethjiang/calibrate-fisheye-lens-using-opencv-333b05afa0b0)
+The best way to undistort is to follow [Andy Sloane](https://github.com/a1k0n/cycloid/tree/master/tools/camcal). Another option is [fish-eye undistortion](https://medium.com/@kennethjiang/calibrate-fisheye-lens-using-opencv-333b05afa0b0).
+
+
+
