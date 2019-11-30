@@ -7,3 +7,4 @@ Following guids are provided
 * [Build Instructions for the Indoor Compact Racer](indoor_compact_car.md)
 
 ![](images/icc_overview.png)
+![](https://github.com/connected-autonomous-mobility/50-hardware/blob/master/images/A2F3A68F-C832-466F-A556-0007B86D8731.jpeg)
