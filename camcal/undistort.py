@@ -2,8 +2,20 @@ import os
 import numpy as np
 import cv2
 
-camera_matrix = np.load("camera_cal/camera_matrix.npy")
-dist_coeffs = np.load("camera_cal/dist_coeffs.npy")
+# rbx
+global IMG_W
+global IMG_H
+global IMG_NAME 
+IMG_W=640 #1280 #3264 #1280
+IMG_H=480 #720 #2464 #720
+RES_NAME="_"+str(IMG_W)+"_"+str(IMG_H)
+IMG_NAME="calimg"+RES_NAME
+# rbx
+
+#camera_matrix = np.load("camera_cal/camera_matrix.npy")
+#dist_coeffs = np.load("camera_cal/dist_coeffs.npy")
+camera_matrix = np.load("camera_cal/camera_matrix"+RES_NAME+".npy")
+dist_coeffs = np.load("camera_cal/dist_coeffs"+RES_NAME+".npy")
 
 new_camera_matrix = np.copy(camera_matrix)
 new_camera_matrix[:2, :2] /= 2.

@@ -3,6 +3,17 @@ import cv2
 import cv2.aruco
 import numpy as np
 
+# rbx
+# images taken with lower resolutions than 640x480 did not work for undistortion
+global IMG_W
+global IMG_H
+global IMG_NAME 
+IMG_W=640 #1280 #3264 #1280
+IMG_H=480 #720 #2464 #720
+RES_NAME="_"+str(IMG_W)+"_"+str(IMG_H)
+IMG_NAME="calimg"+RES_NAME
+# rbx
+
 dictionary = cv2.aruco.getPredefinedDictionary(cv2.aruco.DICT_6X6_50)
 board = cv2.aruco.CharucoBoard_create(7, 7, 0.25375/7, .018, dictionary)
 
@@ -10,8 +21,8 @@ board = cv2.aruco.CharucoBoard_create(7, 7, 0.25375/7, .018, dictionary)
 object_points = []
 image_points = []
 
-for jpg in os.listdir("./images_calibration"):
-    print(jpg)
+#for jpg in os.listdir("./images_calibration"):
+for jpg in os.listdir("."):
     if not jpg.endswith(".jpg"):
         continue
     if "undistort" in jpg:
@@ -29,6 +40,7 @@ for jpg in os.listdir("./images_calibration"):
             image_points.append(corners.reshape(1,len(ids),2))
             print(jpg, len(object_points), 'calibration frames')
 
+    print(jpg, len(res[0]))
 
 imsize = gray.shape
 
@@ -52,13 +64,13 @@ print(retval)
 print(cameraMatrix)
 print(distCoeffs)
 
-np.save("camera_matrix", cameraMatrix, False)
-np.save("dist_coeffs", distCoeffs, False)
+np.save("camera_matrix"+RES_NAME, cameraMatrix, False)
+np.save("dist_coeffs"+RES_NAME, distCoeffs, False)
 
 fx, fy = np.diag(cameraMatrix)[:2]
 cx, cy = cameraMatrix[:2, 2]
 k1 = distCoeffs[0]
-f = open("caldata.txt", "w")
+f = open("caldata"+RES_NAME+".txt", "w")
 f.write("# fx fy cx cy k1\n")
 f.write("%f %f %f %f %f\n" % (fx, fy, cx, cy, k1))
 f.close()
