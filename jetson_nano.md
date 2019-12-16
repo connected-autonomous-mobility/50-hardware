@@ -114,3 +114,14 @@ ssh -X user@hostname
 ```
 ## 9. Remote Jupyter Notebook
 [guide](https://jupyter-notebook.readthedocs.io/en/stable/public_server.html)
+
+## 10. local car wifi hotspot
+
+[guide](https://medium.com/@jones.0bj3/wireless-networking-for-the-jetson-nano-and-rpi-504868dd1b3a)
+
+```
+nmcli dev wifi hotspot ifname wlan1 ssid rbnano1-drivingnetwork password XXX
+
+pw: wurX32fgH678```
+
+[run script on start](https://askubuntu.com/questions/814/how-to-run-scripts-on-start-up)
