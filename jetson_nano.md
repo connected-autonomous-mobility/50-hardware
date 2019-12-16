@@ -118,3 +118,13 @@ ssh -X user@hostname
 ## 10. Install VSCODE
 
 [guide](https://code.headmelted.com/#linux-install-scripts)
+
+## 11. Install conda
+
+[guide](https://github.com/helmut-hoffer-von-ankershoffen/jetson/blob/master/workflow/deploy/ml-base/src/Dockerfile)
+
+```
+wget --quiet -O archiconda.sh https://github.com/Archiconda/build-tools/releases/download/0.2.3/Archiconda3-0.2.3-Linux-aarch64.sh && \
+    sh archiconda.sh -b -p /opt/archiconda3 && \
+    rm archiconda.sh
+```
