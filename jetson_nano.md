@@ -122,6 +122,7 @@ ssh -X user@hostname
 ```
 nmcli dev wifi hotspot ifname wlan1 ssid rbnano1-drivingnetwork password XXX
 
-pw: wurX32fgH678```
+pw: wurX32fgH678
+```
 
 [run script on start](https://askubuntu.com/questions/814/how-to-run-scripts-on-start-up)
