@@ -115,3 +115,6 @@ ssh -X user@hostname
 ## 9. Remote Jupyter Notebook
 [guide](https://jupyter-notebook.readthedocs.io/en/stable/public_server.html)
 
+## 10. Install VSCODE
+
+[guide](https://code.headmelted.com/#linux-install-scripts)
