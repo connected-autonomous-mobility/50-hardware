@@ -157,4 +157,26 @@ Aborted (core dumped)
 (env) rainer@rbnano4:~/d2$ python manage1.py drive --model=./models/rb_ufftest.uff --type='tensorrt_linear'
 
 
++-----------------------+-------+------+------+--------+
+|          part         |  max  | min  | avg  | median |
++-----------------------+-------+------+------+--------+
+|       CSICam_rbx      |  0.12 | 0.03 | 0.04 |  0.04  |
+|   LocalWebController  |  0.27 | 0.03 | 0.04 |  0.04  |
+| PS3JoystickController |  0.12 | 0.02 | 0.04 |  0.04  |
+|     ThrottleFilter    |  0.08 | 0.01 | 0.02 |  0.02  |
+|     PilotCondition    |  0.07 | 0.01 | 0.01 |  0.01  |
+|     RecordTracker     |  0.08 | 0.01 | 0.01 |  0.01  |
+|        Mpu6050        |  0.09 | 0.02 | 0.02 |  0.02  |
+|      FileWatcher      |  2.72 | 0.05 | 0.12 |  0.07  |
+|       DriveMode       |  0.11 | 0.02 | 0.03 |  0.03  |
+|        AiLaunch       |  0.06 | 0.01 | 0.02 |  0.02  |
+|     AiRunCondition    |  0.03 | 0.01 | 0.01 |  0.01  |
+|      PWMSteering      | 12.55 | 1.65 | 2.37 |  1.89  |
+|      PWMThrottle      | 14.20 | 1.56 | 2.17 |  1.81  |
++-----------------------+-------+------+------+--------+
+terminate called without an active exception
+Aborted (core dumped)
+(env) rainer@rbnano4:~/d2$ python manage1.py drive --model=./models/rb_ufftest.h5 
+
+
 ```
