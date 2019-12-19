@@ -128,3 +128,10 @@ wget --quiet -O archiconda.sh https://github.com/Archiconda/build-tools/releases
     sh archiconda.sh -b -p /opt/archiconda3 && \
     rm archiconda.sh
 ```
+
+## 12. TensorRT
+
+```
+(env) rainer@rbnano4:~/d2$ python /usr/lib/python3.6/dist-packages/uff/bin/convert_to_uff.py ./models/rb_ufftest.pb
+
+```
