@@ -134,4 +134,27 @@ wget --quiet -O archiconda.sh https://github.com/Archiconda/build-tools/releases
 ```
 (env) rainer@rbnano4:~/d2$ python /usr/lib/python3.6/dist-packages/uff/bin/convert_to_uff.py ./models/rb_ufftest.pb
 
+
++-----------------------+-------+------+------+--------+
+|          part         |  max  | min  | avg  | median |
++-----------------------+-------+------+------+--------+
+|       CSICam_rbx      |  2.65 | 0.02 | 0.05 |  0.04  |
+|   LocalWebController  |  1.96 | 0.03 | 0.04 |  0.04  |
+| PS3JoystickController |  0.63 | 0.02 | 0.04 |  0.04  |
+|     ThrottleFilter    |  0.84 | 0.01 | 0.02 |  0.02  |
+|     PilotCondition    |  0.09 | 0.01 | 0.01 |  0.01  |
+|     RecordTracker     |  0.40 | 0.01 | 0.02 |  0.01  |
+|        Mpu6050        |  0.43 | 0.02 | 0.02 |  0.02  |
+|      FileWatcher      | 18.45 | 0.05 | 0.25 |  0.07  |
+|       DriveMode       |  0.32 | 0.02 | 0.03 |  0.02  |
+|        AiLaunch       |  2.50 | 0.01 | 0.02 |  0.02  |
+|     AiRunCondition    |  0.23 | 0.01 | 0.01 |  0.01  |
+|      PWMSteering      | 38.70 | 1.64 | 2.48 |  1.87  |
+|      PWMThrottle      | 20.43 | 1.54 | 2.22 |  1.78  |
++-----------------------+-------+------+------+--------+
+terminate called without an active exception
+Aborted (core dumped)
+(env) rainer@rbnano4:~/d2$ python manage1.py drive --model=./models/rb_ufftest.uff --type='tensorrt_linear'
+
+
 ```
