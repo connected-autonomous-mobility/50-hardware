@@ -180,3 +180,8 @@ Aborted (core dumped)
 
 
 ```
+
+
+## 12. Automagic FanControl
+
+[guide](https://github.com/Pyrestone/jetson-fan-ctl.git)
