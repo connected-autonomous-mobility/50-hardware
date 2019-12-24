@@ -190,5 +190,7 @@ Aborted (core dumped)
 
 [link](https://devtalk.nvidia.com/default/topic/1049071/pytorch-for-jetson-nano-version-1-3-0-now-available/)
 ```
+# not working #
 pip3 install numpy torch-1.3.0-cp36-cp36m-linux_aarch64.whl
 ```
+[new](https://zhangtemplar.github.io/pytorch/)
