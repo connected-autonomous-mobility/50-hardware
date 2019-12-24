@@ -194,3 +194,8 @@ Aborted (core dumped)
 pip3 install numpy torch-1.3.0-cp36-cp36m-linux_aarch64.whl
 ```
 [new](https://zhangtemplar.github.io/pytorch/)
+
+## scipy
+```
+sudo apt-get install python3-scipy
+```
