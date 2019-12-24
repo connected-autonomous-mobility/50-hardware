@@ -185,3 +185,10 @@ Aborted (core dumped)
 ## 12. Automagic FanControl
 
 [guide](https://github.com/Pyrestone/jetson-fan-ctl.git)
+
+## 13. PyTorch
+
+[link](https://devtalk.nvidia.com/default/topic/1049071/pytorch-for-jetson-nano-version-1-3-0-now-available/)
+```
+pip3 install numpy torch-1.3.0-cp36-cp36m-linux_aarch64.whl
+```
